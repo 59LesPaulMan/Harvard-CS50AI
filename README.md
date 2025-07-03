@@ -9,7 +9,6 @@ Welcome to my project portfolio for [HarvardX CS50AI](https://cs50.harvard.edu/a
 ## 🧠 Course Overview
 
 This course introduced key AI topics including:
-
 - **Search algorithms** (e.g., BFS, DFS)
 - **Knowledge representation and logic**
 - **Bayesian networks**
@@ -56,9 +55,9 @@ Each project reinforced a specific domain through practical application and impl
 
 ## 📜 Certificate
 
-Proudly completed and verified through edX:
+Python Cert also proudly completed and verified through edX:
 
-![CS50AI Certificate](CS50AI.png)
+![CS50P Certificate](CS50P.png)
 
 ---
 
